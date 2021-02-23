@@ -1,0 +1,575 @@
+,0,1,2
+0,abacavir,amprenavir,1
+1,abacavir,asparaginase erwinia chrysanthemi,2
+2,abacavir,asparaginase escherichia coli,2
+3,abacavir,bedaquiline,2
+4,abacavir,black cohosh,2
+5,abacavir,brentuximab,2
+6,abacavir,cabozantinib,2
+7,abacavir,calaspargase pegol,2
+8,abacavir,cannabidiol,2
+9,abacavir,chloral hydrate,1
+10,abacavir,chlorpromazine,1
+11,abacavir,chlorzoxazone,1
+12,abacavir,cladribine,2
+13,abacavir,clofarabine,2
+14,abacavir,cobicistat,2
+15,abacavir,daclizumab,2
+16,abacavir,disulfiram,1
+17,abacavir,efavirenz,2
+18,abacavir,epirubicin,2
+19,abacavir,ethanol,1
+20,abacavir,idelalisib,2
+21,abacavir,interferon beta-1a,2
+22,abacavir,interferon beta-1b,2
+23,abacavir,isoniazid,1
+24,abacavir,leflunomide,3
+25,abacavir,lomitapide,3
+26,abacavir,methadone,2
+27,abacavir,methotrexate,2
+28,abacavir,mipomersen,3
+29,abacavir,naltrexone,2
+30,abacavir,orlistat,2
+31,abacavir,pegaspargase,2
+32,abacavir,peginterferon beta-1a,2
+33,abacavir,pexidartinib,3
+34,abacavir,remdesivir,2
+35,abacavir,ribavirin,2
+36,abacavir,teriflunomide,3
+37,abacavir,thioguanine,2
+38,abacavir,tipranavir,2
+39,abacavir,trabectedin,2
+40,tipranavir,amprenavir,3
+41,tipranavir,asparaginase erwinia chrysanthemi,2
+42,tipranavir,asparaginase escherichia coli,2
+43,tipranavir,bedaquiline,2
+44,tipranavir,black cohosh,2
+45,tipranavir,brentuximab,2
+46,tipranavir,cabozantinib,3
+47,tipranavir,calaspargase pegol,2
+48,tipranavir,cannabidiol,2
+49,tipranavir,clofarabine,2
+50,tipranavir,cobicistat,2
+51,tipranavir,daclizumab,2
+52,tipranavir,disulfiram,3
+53,tipranavir,efavirenz,2
+54,tipranavir,epirubicin,2
+55,tipranavir,idelalisib,2
+56,tipranavir,interferon beta-1a,2
+57,tipranavir,interferon beta-1b,2
+58,tipranavir,leflunomide,3
+59,tipranavir,lomitapide,3
+60,tipranavir,methotrexate,2
+61,tipranavir,mipomersen,3
+62,tipranavir,naltrexone,2
+63,tipranavir,orlistat,2
+64,tipranavir,pegaspargase,2
+65,tipranavir,peginterferon beta-1a,2
+66,tipranavir,pexidartinib,3
+67,tipranavir,remdesivir,2
+68,tipranavir,teriflunomide,3
+69,tipranavir,thioguanine,2
+70,tipranavir,trabectedin,2
+71,bedaquiline,amprenavir,2
+72,bedaquiline,asparaginase erwinia chrysanthemi,2
+73,bedaquiline,asparaginase escherichia coli,2
+74,bedaquiline,black cohosh,2
+75,bedaquiline,brentuximab,2
+76,bedaquiline,cabozantinib,3
+77,bedaquiline,calaspargase pegol,2
+78,bedaquiline,cannabidiol,2
+79,bedaquiline,chlorpromazine,3
+80,bedaquiline,chlorzoxazone,2
+81,bedaquiline,clofarabine,2
+82,bedaquiline,cobicistat,2
+83,bedaquiline,daclizumab,2
+84,bedaquiline,disulfiram,2
+85,bedaquiline,efavirenz,3
+86,bedaquiline,epirubicin,3
+87,bedaquiline,ethanol,2
+88,bedaquiline,idelalisib,2
+89,bedaquiline,interferon beta-1a,2
+90,bedaquiline,interferon beta-1b,2
+91,bedaquiline,isoniazid,2
+92,bedaquiline,leflunomide,3
+93,bedaquiline,lomitapide,3
+94,bedaquiline,methadone,3
+95,bedaquiline,methotrexate,2
+96,bedaquiline,mipomersen,3
+97,bedaquiline,naltrexone,2
+98,bedaquiline,orlistat,2
+99,bedaquiline,pegaspargase,2
+100,bedaquiline,peginterferon beta-1a,2
+101,bedaquiline,pexidartinib,3
+102,bedaquiline,remdesivir,2
+103,bedaquiline,teriflunomide,3
+104,bedaquiline,thioguanine,2
+105,bedaquiline,trabectedin,2
+106,teriflunomide,asparaginase erwinia chrysanthemi,3
+107,teriflunomide,asparaginase escherichia coli,3
+108,teriflunomide,black cohosh,3
+109,teriflunomide,brentuximab,3
+110,teriflunomide,calaspargase pegol,3
+111,teriflunomide,cannabidiol,3
+112,teriflunomide,chlorzoxazone,3
+113,teriflunomide,cladribine,3
+114,teriflunomide,clofarabine,3
+115,teriflunomide,daclizumab,3
+116,teriflunomide,disulfiram,3
+117,teriflunomide,efavirenz,3
+118,teriflunomide,epirubicin,3
+119,teriflunomide,ethanol,3
+120,teriflunomide,idelalisib,3
+121,teriflunomide,interferon beta-1a,3
+122,teriflunomide,interferon beta-1b,3
+123,teriflunomide,isoniazid,3
+124,teriflunomide,leflunomide,3
+125,teriflunomide,lomitapide,3
+126,teriflunomide,methotrexate,3
+127,teriflunomide,mipomersen,3
+128,teriflunomide,naltrexone,3
+129,teriflunomide,orlistat,3
+130,teriflunomide,pegaspargase,3
+131,teriflunomide,peginterferon beta-1a,3
+132,teriflunomide,pexidartinib,3
+133,teriflunomide,remdesivir,2
+134,teriflunomide,thioguanine,3
+135,teriflunomide,trabectedin,3
+136,pexidartinib,amprenavir,3
+137,pexidartinib,asparaginase erwinia chrysanthemi,3
+138,pexidartinib,asparaginase escherichia coli,3
+139,pexidartinib,black cohosh,3
+140,pexidartinib,brentuximab,3
+141,pexidartinib,cabozantinib,2
+142,pexidartinib,calaspargase pegol,3
+143,pexidartinib,cannabidiol,3
+144,pexidartinib,chlorzoxazone,3
+145,pexidartinib,clofarabine,3
+146,pexidartinib,cobicistat,2
+147,pexidartinib,daclizumab,3
+148,pexidartinib,disulfiram,3
+149,pexidartinib,efavirenz,3
+150,pexidartinib,epirubicin,3
+151,pexidartinib,ethanol,3
+152,pexidartinib,idelalisib,3
+153,pexidartinib,interferon beta-1a,3
+154,pexidartinib,interferon beta-1b,3
+155,pexidartinib,isoniazid,3
+156,pexidartinib,leflunomide,3
+157,pexidartinib,lomitapide,3
+158,pexidartinib,methadone,3
+159,pexidartinib,methotrexate,3
+160,pexidartinib,mipomersen,3
+161,pexidartinib,naltrexone,3
+162,pexidartinib,orlistat,3
+163,pexidartinib,pegaspargase,3
+164,pexidartinib,peginterferon beta-1a,3
+165,pexidartinib,remdesivir,2
+166,pexidartinib,thioguanine,3
+167,pexidartinib,trabectedin,3
+168,idelalisib,amprenavir,2
+169,idelalisib,asparaginase erwinia chrysanthemi,2
+170,idelalisib,asparaginase escherichia coli,2
+171,idelalisib,black cohosh,2
+172,idelalisib,brentuximab,2
+173,idelalisib,cabozantinib,2
+174,idelalisib,calaspargase pegol,2
+175,idelalisib,cannabidiol,1
+176,idelalisib,chlorzoxazone,2
+177,idelalisib,cladribine,3
+178,idelalisib,clofarabine,2
+179,idelalisib,cobicistat,2
+180,idelalisib,daclizumab,2
+181,idelalisib,disulfiram,2
+182,idelalisib,efavirenz,2
+183,idelalisib,epirubicin,2
+184,idelalisib,ethanol,2
+185,idelalisib,interferon beta-1a,2
+186,idelalisib,interferon beta-1b,2
+187,idelalisib,isoniazid,2
+188,idelalisib,leflunomide,3
+189,idelalisib,lomitapide,3
+190,idelalisib,methadone,2
+191,idelalisib,methotrexate,2
+192,idelalisib,mipomersen,3
+193,idelalisib,naltrexone,2
+194,idelalisib,orlistat,2
+195,idelalisib,pegaspargase,2
+196,idelalisib,peginterferon beta-1a,2
+197,idelalisib,remdesivir,2
+198,idelalisib,thioguanine,2
+199,idelalisib,trabectedin,3
+200,interferon beta-1a,asparaginase erwinia chrysanthemi,2
+201,interferon beta-1a,asparaginase escherichia coli,2
+202,interferon beta-1a,black cohosh,2
+203,interferon beta-1a,brentuximab,2
+204,interferon beta-1a,calaspargase pegol,2
+205,interferon beta-1a,cannabidiol,2
+206,interferon beta-1a,chlorzoxazone,2
+207,interferon beta-1a,cladribine,2
+208,interferon beta-1a,clofarabine,2
+209,interferon beta-1a,daclizumab,2
+210,interferon beta-1a,disulfiram,2
+211,interferon beta-1a,efavirenz,2
+212,interferon beta-1a,epirubicin,2
+213,interferon beta-1a,ethanol,2
+214,interferon beta-1a,isoniazid,2
+215,interferon beta-1a,leflunomide,3
+216,interferon beta-1a,lomitapide,3
+217,interferon beta-1a,methotrexate,2
+218,interferon beta-1a,mipomersen,3
+219,interferon beta-1a,naltrexone,2
+220,interferon beta-1a,orlistat,2
+221,interferon beta-1a,pegaspargase,2
+222,interferon beta-1a,remdesivir,2
+223,interferon beta-1a,thioguanine,2
+224,interferon beta-1a,trabectedin,2
+225,leflunomide,asparaginase erwinia chrysanthemi,3
+226,leflunomide,asparaginase escherichia coli,3
+227,leflunomide,black cohosh,3
+228,leflunomide,brentuximab,3
+229,leflunomide,calaspargase pegol,3
+230,leflunomide,cannabidiol,3
+231,leflunomide,chlorzoxazone,3
+232,leflunomide,cladribine,3
+233,leflunomide,clofarabine,3
+234,leflunomide,daclizumab,3
+235,leflunomide,disulfiram,3
+236,leflunomide,efavirenz,3
+237,leflunomide,epirubicin,3
+238,leflunomide,ethanol,3
+239,leflunomide,interferon beta-1b,3
+240,leflunomide,isoniazid,3
+241,leflunomide,lomitapide,3
+242,leflunomide,methotrexate,3
+243,leflunomide,mipomersen,3
+244,leflunomide,naltrexone,3
+245,leflunomide,orlistat,3
+246,leflunomide,pegaspargase,3
+247,leflunomide,peginterferon beta-1a,3
+248,leflunomide,remdesivir,2
+249,leflunomide,thioguanine,3
+250,leflunomide,trabectedin,3
+251,remdesivir,asparaginase erwinia chrysanthemi,2
+252,remdesivir,asparaginase escherichia coli,2
+253,remdesivir,black cohosh,2
+254,remdesivir,brentuximab,2
+255,remdesivir,calaspargase pegol,2
+256,remdesivir,cannabidiol,2
+257,remdesivir,chlorzoxazone,2
+258,remdesivir,clofarabine,2
+259,remdesivir,daclizumab,2
+260,remdesivir,disulfiram,2
+261,remdesivir,efavirenz,2
+262,remdesivir,epirubicin,2
+263,remdesivir,ethanol,2
+264,remdesivir,interferon beta-1b,2
+265,remdesivir,isoniazid,2
+266,remdesivir,lomitapide,2
+267,remdesivir,methotrexate,2
+268,remdesivir,mipomersen,2
+269,remdesivir,naltrexone,2
+270,remdesivir,orlistat,2
+271,remdesivir,pegaspargase,2
+272,remdesivir,peginterferon beta-1a,2
+273,remdesivir,thioguanine,2
+274,remdesivir,trabectedin,2
+275,ribavirin,cladribine,2
+276,daclizumab,asparaginase erwinia chrysanthemi,2
+277,daclizumab,asparaginase escherichia coli,2
+278,daclizumab,black cohosh,2
+279,daclizumab,brentuximab,2
+280,daclizumab,calaspargase pegol,2
+281,daclizumab,cannabidiol,2
+282,daclizumab,chlorzoxazone,2
+283,daclizumab,cladribine,3
+284,daclizumab,clofarabine,2
+285,daclizumab,efavirenz,2
+286,daclizumab,epirubicin,2
+287,daclizumab,ethanol,2
+288,daclizumab,interferon beta-1b,2
+289,daclizumab,isoniazid,2
+290,daclizumab,lomitapide,3
+291,daclizumab,methotrexate,2
+292,daclizumab,mipomersen,3
+293,daclizumab,naltrexone,2
+294,daclizumab,orlistat,2
+295,daclizumab,pegaspargase,2
+296,daclizumab,peginterferon beta-1a,2
+297,daclizumab,thioguanine,2
+298,daclizumab,trabectedin,2
+299,lomitapide,amprenavir,3
+300,lomitapide,asparaginase erwinia chrysanthemi,3
+301,lomitapide,asparaginase escherichia coli,3
+302,lomitapide,black cohosh,3
+303,lomitapide,brentuximab,3
+304,lomitapide,calaspargase pegol,3
+305,lomitapide,cannabidiol,3
+306,lomitapide,chlorzoxazone,3
+307,lomitapide,clofarabine,3
+308,lomitapide,cobicistat,3
+309,lomitapide,disulfiram,3
+310,lomitapide,efavirenz,3
+311,lomitapide,epirubicin,2
+312,lomitapide,ethanol,3
+313,lomitapide,interferon beta-1b,3
+314,lomitapide,isoniazid,3
+315,lomitapide,methotrexate,3
+316,lomitapide,mipomersen,3
+317,lomitapide,naltrexone,3
+318,lomitapide,orlistat,3
+319,lomitapide,pegaspargase,3
+320,lomitapide,peginterferon beta-1a,3
+321,lomitapide,thioguanine,3
+322,lomitapide,trabectedin,3
+323,disulfiram,amprenavir,3
+324,disulfiram,asparaginase erwinia chrysanthemi,2
+325,disulfiram,asparaginase escherichia coli,2
+326,disulfiram,black cohosh,3
+327,disulfiram,brentuximab,2
+328,disulfiram,calaspargase pegol,2
+329,disulfiram,chlorzoxazone,2
+330,disulfiram,clofarabine,2
+331,disulfiram,efavirenz,2
+332,disulfiram,epirubicin,2
+333,disulfiram,ethanol,3
+334,disulfiram,interferon beta-1b,2
+335,disulfiram,isoniazid,2
+336,disulfiram,methotrexate,2
+337,disulfiram,mipomersen,3
+338,disulfiram,naltrexone,2
+339,disulfiram,pegaspargase,2
+340,disulfiram,peginterferon beta-1a,2
+341,disulfiram,thioguanine,2
+342,disulfiram,trabectedin,2
+343,interferon beta-1b,asparaginase erwinia chrysanthemi,2
+344,interferon beta-1b,asparaginase escherichia coli,2
+345,interferon beta-1b,black cohosh,2
+346,interferon beta-1b,brentuximab,2
+347,interferon beta-1b,calaspargase pegol,2
+348,interferon beta-1b,cannabidiol,2
+349,interferon beta-1b,chlorzoxazone,2
+350,interferon beta-1b,cladribine,2
+351,interferon beta-1b,clofarabine,2
+352,interferon beta-1b,efavirenz,2
+353,interferon beta-1b,epirubicin,2
+354,interferon beta-1b,ethanol,2
+355,interferon beta-1b,isoniazid,2
+356,interferon beta-1b,methotrexate,2
+357,interferon beta-1b,mipomersen,3
+358,interferon beta-1b,naltrexone,2
+359,interferon beta-1b,orlistat,2
+360,interferon beta-1b,pegaspargase,2
+361,interferon beta-1b,thioguanine,2
+362,interferon beta-1b,trabectedin,2
+363,clofarabine,asparaginase erwinia chrysanthemi,2
+364,clofarabine,asparaginase escherichia coli,2
+365,clofarabine,black cohosh,2
+366,clofarabine,brentuximab,2
+367,clofarabine,calaspargase pegol,2
+368,clofarabine,cannabidiol,2
+369,clofarabine,chlorzoxazone,2
+370,clofarabine,cladribine,3
+371,clofarabine,efavirenz,2
+372,clofarabine,epirubicin,2
+373,clofarabine,ethanol,2
+374,clofarabine,isoniazid,2
+375,clofarabine,methotrexate,2
+376,clofarabine,mipomersen,3
+377,clofarabine,naltrexone,2
+378,clofarabine,orlistat,2
+379,clofarabine,pegaspargase,2
+380,clofarabine,peginterferon beta-1a,2
+381,clofarabine,thioguanine,2
+382,clofarabine,trabectedin,2
+383,thioguanine,asparaginase erwinia chrysanthemi,2
+384,thioguanine,asparaginase escherichia coli,2
+385,thioguanine,black cohosh,2
+386,thioguanine,brentuximab,2
+387,thioguanine,calaspargase pegol,2
+388,thioguanine,cannabidiol,2
+389,thioguanine,chlorzoxazone,2
+390,thioguanine,cladribine,3
+391,thioguanine,efavirenz,2
+392,thioguanine,epirubicin,2
+393,thioguanine,ethanol,2
+394,thioguanine,isoniazid,2
+395,thioguanine,methotrexate,2
+396,thioguanine,mipomersen,3
+397,thioguanine,naltrexone,2
+398,thioguanine,orlistat,2
+399,thioguanine,pegaspargase,2
+400,thioguanine,peginterferon beta-1a,2
+401,thioguanine,trabectedin,2
+402,pegaspargase,black cohosh,2
+403,pegaspargase,brentuximab,2
+404,pegaspargase,cannabidiol,2
+405,pegaspargase,chlorzoxazone,2
+406,pegaspargase,efavirenz,2
+407,pegaspargase,epirubicin,2
+408,pegaspargase,ethanol,2
+409,pegaspargase,isoniazid,2
+410,pegaspargase,methotrexate,2
+411,pegaspargase,mipomersen,3
+412,pegaspargase,naltrexone,2
+413,pegaspargase,orlistat,2
+414,pegaspargase,peginterferon beta-1a,2
+415,pegaspargase,trabectedin,2
+416,chlorpromazine,cabozantinib,3
+417,chlorpromazine,cannabidiol,2
+418,chlorpromazine,chloral hydrate,2
+419,chlorpromazine,chlorzoxazone,2
+420,chlorpromazine,cobicistat,2
+421,chlorpromazine,efavirenz,3
+422,chlorpromazine,epirubicin,2
+423,chlorpromazine,ethanol,2
+424,chlorpromazine,methadone,3
+425,trabectedin,amprenavir,3
+426,trabectedin,asparaginase erwinia chrysanthemi,2
+427,trabectedin,asparaginase escherichia coli,2
+428,trabectedin,black cohosh,2
+429,trabectedin,brentuximab,2
+430,trabectedin,calaspargase pegol,2
+431,trabectedin,cannabidiol,2
+432,trabectedin,chlorzoxazone,2
+433,trabectedin,cladribine,3
+434,trabectedin,cobicistat,3
+435,trabectedin,efavirenz,2
+436,trabectedin,epirubicin,2
+437,trabectedin,ethanol,2
+438,trabectedin,isoniazid,2
+439,trabectedin,methotrexate,2
+440,trabectedin,mipomersen,3
+441,trabectedin,naltrexone,2
+442,trabectedin,orlistat,2
+443,trabectedin,peginterferon beta-1a,2
+444,epirubicin,asparaginase erwinia chrysanthemi,2
+445,epirubicin,asparaginase escherichia coli,2
+446,epirubicin,brentuximab,2
+447,epirubicin,cabozantinib,3
+448,epirubicin,calaspargase pegol,2
+449,epirubicin,cannabidiol,2
+450,epirubicin,cladribine,3
+451,epirubicin,efavirenz,3
+452,epirubicin,ethanol,2
+453,epirubicin,isoniazid,2
+454,epirubicin,methadone,3
+455,epirubicin,methotrexate,2
+456,epirubicin,naltrexone,2
+457,epirubicin,orlistat,2
+458,epirubicin,peginterferon beta-1a,2
+459,methadone,amprenavir,2
+460,methadone,cabozantinib,3
+461,methadone,cannabidiol,2
+462,methadone,chloral hydrate,3
+463,methadone,chlorzoxazone,3
+464,methadone,efavirenz,2
+465,methadone,ethanol,2
+466,methadone,isoniazid,2
+467,methadone,naltrexone,3
+468,efavirenz,amprenavir,2
+469,efavirenz,asparaginase erwinia chrysanthemi,2
+470,efavirenz,asparaginase escherichia coli,2
+471,efavirenz,black cohosh,2
+472,efavirenz,brentuximab,2
+473,efavirenz,cabozantinib,3
+474,efavirenz,calaspargase pegol,2
+475,efavirenz,cannabidiol,2
+476,efavirenz,chlorzoxazone,2
+477,efavirenz,cobicistat,2
+478,efavirenz,ethanol,2
+479,efavirenz,isoniazid,2
+480,efavirenz,methotrexate,2
+481,efavirenz,mipomersen,3
+482,efavirenz,naltrexone,2
+483,efavirenz,orlistat,2
+484,efavirenz,peginterferon beta-1a,2
+485,calaspargase pegol,black cohosh,2
+486,calaspargase pegol,brentuximab,2
+487,calaspargase pegol,cannabidiol,2
+488,calaspargase pegol,chlorzoxazone,2
+489,calaspargase pegol,ethanol,2
+490,calaspargase pegol,isoniazid,2
+491,calaspargase pegol,methotrexate,2
+492,calaspargase pegol,mipomersen,3
+493,calaspargase pegol,naltrexone,2
+494,calaspargase pegol,orlistat,2
+495,calaspargase pegol,peginterferon beta-1a,2
+496,black cohosh,asparaginase erwinia chrysanthemi,2
+497,black cohosh,asparaginase escherichia coli,2
+498,black cohosh,brentuximab,2
+499,black cohosh,cannabidiol,2
+500,black cohosh,chlorzoxazone,2
+501,black cohosh,ethanol,2
+502,black cohosh,isoniazid,2
+503,black cohosh,methotrexate,2
+504,black cohosh,mipomersen,3
+505,black cohosh,naltrexone,2
+506,black cohosh,orlistat,2
+507,black cohosh,peginterferon beta-1a,2
+508,cladribine,asparaginase escherichia coli,3
+509,cladribine,brentuximab,3
+510,cladribine,methotrexate,3
+511,cladribine,peginterferon beta-1a,2
+512,asparaginase erwinia chrysanthemi,brentuximab,2
+513,asparaginase erwinia chrysanthemi,cannabidiol,2
+514,asparaginase erwinia chrysanthemi,chlorzoxazone,2
+515,asparaginase erwinia chrysanthemi,ethanol,2
+516,asparaginase erwinia chrysanthemi,isoniazid,2
+517,asparaginase erwinia chrysanthemi,methotrexate,2
+518,asparaginase erwinia chrysanthemi,mipomersen,3
+519,asparaginase erwinia chrysanthemi,naltrexone,2
+520,asparaginase erwinia chrysanthemi,orlistat,2
+521,asparaginase erwinia chrysanthemi,peginterferon beta-1a,2
+522,cabozantinib,amprenavir,3
+523,cabozantinib,brentuximab,2
+524,cabozantinib,cobicistat,3
+525,chlorzoxazone,asparaginase escherichia coli,2
+526,chlorzoxazone,brentuximab,2
+527,chlorzoxazone,cannabidiol,2
+528,chlorzoxazone,chloral hydrate,2
+529,chlorzoxazone,ethanol,2
+530,chlorzoxazone,isoniazid,2
+531,chlorzoxazone,methotrexate,2
+532,chlorzoxazone,mipomersen,3
+533,chlorzoxazone,naltrexone,2
+534,chlorzoxazone,peginterferon beta-1a,2
+535,cannabidiol,amprenavir,1
+536,cannabidiol,asparaginase escherichia coli,2
+537,cannabidiol,brentuximab,2
+538,cannabidiol,chloral hydrate,2
+539,cannabidiol,cobicistat,1
+540,cannabidiol,ethanol,2
+541,cannabidiol,isoniazid,2
+542,cannabidiol,methotrexate,2
+543,cannabidiol,mipomersen,3
+544,cannabidiol,naltrexone,2
+545,cannabidiol,orlistat,2
+546,cannabidiol,peginterferon beta-1a,2
+547,peginterferon beta-1a,asparaginase escherichia coli,2
+548,peginterferon beta-1a,brentuximab,2
+549,peginterferon beta-1a,ethanol,2
+550,peginterferon beta-1a,isoniazid,2
+551,peginterferon beta-1a,methotrexate,2
+552,peginterferon beta-1a,mipomersen,3
+553,peginterferon beta-1a,naltrexone,2
+554,peginterferon beta-1a,orlistat,2
+555,orlistat,amprenavir,2
+556,orlistat,asparaginase escherichia coli,2
+557,orlistat,brentuximab,2
+558,orlistat,methotrexate,2
+559,orlistat,mipomersen,3
+560,orlistat,naltrexone,2
+561,cobicistat,amprenavir,2
+562,cobicistat,brentuximab,2
+563,isoniazid,asparaginase escherichia coli,2
+564,isoniazid,brentuximab,2
+565,isoniazid,ethanol,2
+566,isoniazid,methotrexate,2
+567,isoniazid,mipomersen,3
+568,isoniazid,naltrexone,2
+569,methotrexate,asparaginase escherichia coli,2
+570,methotrexate,brentuximab,2
+571,methotrexate,ethanol,2
+572,methotrexate,mipomersen,3
+573,methotrexate,naltrexone,2
