@@ -45,7 +45,7 @@ data.to_csv("abacavir_ddi.csv")
 drug_dict = {}
 drug_dict['abacavir'] = 0
 for i in range(0,len(drug_list)):
-    drug_dict[drug_list[i]] = i
+    drug_dict[drug_list[i]] = i + 1
 
 new_drug_list = []
 new_drug_list.append('abacavir')
@@ -53,14 +53,22 @@ for i in drug_list:
     new_drug_list.append(i)
 pd1_list = []
 pd2_list = []
+rank_dict = {1 : 0.01,
+             2 : 0.3,
+             3 : 2}
 for i in ddi_list:
-    pd1_list.append([drug_dict[i[0]], drug_dict[i[1]], i[2]])
+    #print([drug_dict[i[0]], drug_dict[i[1]], i[2]])
+    pd1_list.append([drug_dict[i[0]], drug_dict[i[1]], rank_dict[i[2]]])
 label_list = []
 label_list.append(1)
 for i in drug_list:
     label_list.append(0)
+size_list = []
+size_list.append(6)
+for i in drug_list:
+    size_list.append(2)
 for i in range(0,len(new_drug_list)):
-    pd2_list.append([new_drug_list[i], label_list[i], label_list[i]])
+    pd2_list.append([new_drug_list[i], label_list[i], size_list[i]])
 
 pd1 = DataFrame(pd1_list)
 pd2 = DataFrame(pd2_list)

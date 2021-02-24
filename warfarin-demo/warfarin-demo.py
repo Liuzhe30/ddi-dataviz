@@ -41,3 +41,23 @@ for path,dir_list,file_list in g:
 
 data = DataFrame(ddi_list)
 data.to_csv("warfarin_ddi.csv")
+
+drug_dict = {}
+drug_dict['warfarin'] = 0
+for i in range(0,len(drug_list)):
+     drug_dict[drug_list[i]] = i
+
+new_drug_list = []
+new_drug_list.append('warfarin')
+for i in drug_list:
+     new_drug_list.append(i)
+pd1_list = []
+pd2_list = []
+for i in ddi_list:
+     pd1_list.append([drug_dict[i[0]], drug_dict[i[1]], i[2]])
+label_list = []
+label_list.append(1)
+for i in drug_list:
+     label_list.append(0)
+for i in range(0,len(new_drug_list)):
+     pd2_list.append([new_drug_list[i], label_list[i], label_list[i]])
